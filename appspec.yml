@@ -18,4 +18,4 @@ beforeInstall:
 - location: scripts/delete-old-index.sh
 AfterInstall:
 - location: scripts/sleep.sh
-- location/webserver-start.sh
+- location: scripts/webserver-start.sh
